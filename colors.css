@@ -6,6 +6,23 @@
  */
 
 :root {
+  --colors-1-2-4-captions-live-aa-wcag-captions-background-color: #000000;
+  --colors-1-2-4-captions-live-aa-wcag-captions-foreground-color: #ffffff;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-hatch-foreground: #000000;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-hatch-background: #ffffff;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-crosses-foreground: #cccccc;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-crosses-background: #34495e;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-dots-foreground: #285678;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-dots-background: #e0e0e0;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-crosshatch-foreground: #555555;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-crosshatch-background: #fafafa;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-diagonal-foreground: #666666;
+  --colors-1-4-1-use-of-color-a-wcag-pattern-diagonal-background: #f0f0f0;
+  --colors-1-4-3-contrast-minimum-aa-wcag-contrast-background-color: #ffffff;
+  --colors-1-4-3-contrast-minimum-aa-wcag-contrast-foreground-color: #000000;
+  --colors-1-4-8-visual-presentation-aaa-wcag-visual-text-foreground-color: #ffffff;
+  --colors-1-4-8-visual-presentation-aaa-wcag-visual-text-background-color: #000000;
+  --colors-2-4-7-focus-visible-aa-wcag-focus-visible-color: #33cc33;
   --colors-base-common-white: #efefef;
   --colors-base-common-black: #000000;
   --colors-base-common-colors-3: #000000;
@@ -114,21 +131,4 @@
   --colors-specific-button-primary-hover: #91caff;
   --colors-specific-button-primary-active: #004493;
   --colors-specific-button-primary-disabled: #004493;
-  --colors-1-2-4-captions-live-aa-wcag-captions-background-color: #000000;
-  --colors-1-2-4-captions-live-aa-wcag-captions-foreground-color: #ffffff;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-hatch-foreground: #000000;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-hatch-background: #ffffff;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-crosses-foreground: #cccccc;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-crosses-background: #34495e;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-dots-foreground: #285678;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-dots-background: #e0e0e0;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-crosshatch-foreground: #555555;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-crosshatch-background: #fafafa;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-diagonal-foreground: #666666;
-  --colors-1-4-1-use-of-color-a-wcag-pattern-diagonal-background: #f0f0f0;
-  --colors-1-4-3-contrast-minimum-aa-wcag-contrast-background-color: #ffffff;
-  --colors-1-4-3-contrast-minimum-aa-wcag-contrast-foreground-color: #000000;
-  --colors-1-4-8-visual-presentation-aaa-wcag-visual-text-foreground-color: #ffffff;
-  --colors-1-4-8-visual-presentation-aaa-wcag-visual-text-background-color: #000000;
-  --colors-2-4-7-focus-visible-aa-wcag-focus-visible-color: #33cc33;
 }
