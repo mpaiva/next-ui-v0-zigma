@@ -37,7 +37,7 @@
   --typography-base-font-sizes-large: 18px;
   --typography-base-font-sizes-xlarge: 24px;
   --typography-base-font-sizes-xxlarge: 32px;
-  --typography-base-font-sizes-xxxlarge: 48px;
+  --typography-base-font-sizes-xxxlarge: 48px* 2;
   --typography-base-font-weights-bold: 700px;
   --typography-base-line-heights-tiny: 0.75px;
   --typography-base-line-heights-small: 1px;
